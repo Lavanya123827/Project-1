@@ -1,0 +1,97 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height: 135vh;
+    background-size: cover;
+    margin: 20px;
+}
+
+.home-page-title {
+    color: #253263;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.home-page-sub-title {
+    color: #132d84;
+    font-size: 25px;
+    padding-top: 50px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.home-page-girl-image {
+    height: 480px;
+    width: 300px;
+    padding-top: 160px;
+}
+
+.home-page-paragraph {
+    color: #323f4b;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+
+.button {
+    color: #fad693;
+    background-color: #132d84;
+    font-size: 10px;
+    font-family: "Roboto";
+    padding: 5px;
+    border-radius: 5px;
+    width: 80px;
+    margin-bottom: 20px;
+}
+
+.yoga-page-bg-container {
+    background-color: #ffedcb;
+}
+
+.yoga-page-title {
+    color: #253263;
+    font-size: 25px;
+    padding: 20px;
+}
+
+.yoga-page-sub-title {
+    color: #253263;
+    font-size: 25px;
+    padding-top: 20px;
+}
+
+.yoga-page-card {
+    background-color: #ffe2ab;
+    margin: 35px;
+    border-radius: 15px;
+
+}
+
+.yoga-page-images {
+    height: 100px;
+    width: 80px;
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+.types-of-yoga-title {
+    font-size: 20px;
+    padding-top: 10px;
+    padding-right: 110px;
+    color: #253263;
+    font-family: "Roboto";
+}
+
+.types-of-yoga-paragraph {
+    font-size: 15px;
+    padding-left: 20px;
+    color: #253263;
+    font-family: "Roboto";
+}
+
+.yoga-page-girl-image {
+    height: 200px;
+    width: 220px;
+    padding-top: 30px;
+
+}
